@@ -1,0 +1,5 @@
+singleton NotificationCenter 1.0 NotificationCenter.qml
+Notification 1.0 Notification.qml
+NotificationBox 1.0 NotificationBox.qml
+NotificationToolbarIcon 1.0 NotificationToolbarIcon.qml
+

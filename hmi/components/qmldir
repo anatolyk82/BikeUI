@@ -1,0 +1,32 @@
+MenuButton 1.0 MenuButton.qml
+PopupAbout 1.0 PopupAbout.qml
+MainDrawer 1.0 MainDrawer.qml
+Background 1.0 Background.qml
+MainToolBar 1.0 MainToolBar.qml
+KeysDebug 1.0 KeysDebug.qml
+ApplicationBase 1.0 ApplicationBase.qml
+AppsPane 1.0 AppsPane.qml
+
+Carousel 1.0 widgets/Carousel.qml
+MainMenuItem 1.0 widgets/MainMenuItem.qml
+BSwipeView 1.0 widgets/BSwipeView.qml
+
+DynamicContentPage 1.0 DynamicContentPage.qml
+ApplicationView 1.0 ApplicationView.qml
+
+MapView 1.0 map/MapView.qml
+MapButton 1.0 map/MapButton.qml
+MapMenu 1.0 map/MapMenu.qml
+
+SwipeArea 1.0 basic/SwipeArea.qml
+HighlightedLabel 1.0 basic/HighlightedLabel.qml
+ListItem 1.0 basic/ListItem.qml
+BCheckBox 1.0 basic/BCheckBox.qml
+BLabel 1.0 basic/BLabel.qml
+ActivityLabel 1.0 basic/ActivityLabel.qml
+BSlider 1.0 basic/BSlider.qml
+BButton 1.0 basic/BButton.qml
+HidingPageIndicator 1.0 basic/HidingPageIndicator.qml
+
+MessageDialog 1.0 dialogs/MessageDialog.qml
+BDialog 1.0 dialogs/BDialog.qml

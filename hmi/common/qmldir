@@ -1,0 +1,7 @@
+singleton SystemModel 1.0 SystemModel.qml
+singleton DateTimeModel 1.0 DateTimeModel.qml
+singleton GPSModel 1.0 GPSModel.qml
+singleton BatteryModel 1.0 BatteryModel.qml
+GlobalPopups 1.0 GlobalPopups.qml
+
+

@@ -1,0 +1,2 @@
+module Ride
+singleton RideModel 1.0 RideModel.qml

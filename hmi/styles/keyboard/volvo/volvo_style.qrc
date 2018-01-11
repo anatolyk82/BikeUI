@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/QtQuick/VirtualKeyboard/content/styles/volvo/">
+        <file>style.qml</file>
+        <file>images/9patch_3Dbtn_Keyboard_OFF.png</file>
+        <file>images/9patch_3Dbtn_Keyboard_ON.png</file>
+        <file>images/9patch_3Dbtn_Keyboard_PRS.png</file>
+        <file>images/9patch_3Dbtn_Keyboard_SOFF.png</file>
+        <file>KeyBackground.qml</file>
+        <file>images/ic_btn_erase.png</file>
+        <file>images/ic_btn_enter.png</file>
+        <file>images/ic_btn_shift.png</file>
+        <file>images/ic_btn_scribble.png</file>
+        <file>SpecialKeyBackground.qml</file>
+        <file>images/ic_btn_shiftsingle.png</file>
+        <file>images/ic_btn_shiftdouble.png</file>
+        <file>images/ic_btn_level_2.png</file>
+        <file>images/ic_btn_keyboard.png</file>
+        <file>ActionKeyBackground.qml</file>
+        <file>images/9patch_3Dgrnbtn_standalone_OFF.png</file>
+        <file>images/9patch_3Dgrnbtn_standalone_PRS.png</file>
+        <file>images/9patch_3Dbtn_Keyboard_HPRS.png</file>
+        <file>images/9patch_flatbtn_center_PRS.png</file>
+        <file>images/9patch_flatbtn_center_OFF.png</file>
+        <file>images/ic_left.png</file>
+        <file>images/ic_right.png</file>
+        <file>images/9patch_keyboardbg.png</file>
+        <file>images/9patch_3Dbtn_Keyboard_HPRS2.png</file>
+        <file>images/core_scribbleplate.png</file>
+        <file>images/ic_btn_erasealt.png</file>
+    </qresource>
+</RCC>

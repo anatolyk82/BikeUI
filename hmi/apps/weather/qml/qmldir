@@ -1,0 +1,5 @@
+singleton WeatherModel 1.0 WeatherModel.qml
+WeatherView 1.0 WeatherView.qml
+Forecast 1.0 Forecast.qml
+CurrentConditions 1.0 CurrentConditions.qml
+

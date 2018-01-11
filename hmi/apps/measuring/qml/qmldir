@@ -1,0 +1,7 @@
+singleton TimerModel 1.0 TimerModel.qml
+singleton StopwatchModel 1.0 StopwatchModel.qml
+singleton OdometerModel 1.0 OdometerModel.qml
+TimerView 1.0 TimerView.qml
+StopwatchView 1.0 StopwatchView.qml
+OdometerView 1.0 OdometerView.qml
+

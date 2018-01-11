@@ -1,0 +1,12 @@
+NavigationPage 1.0 NavigationPagePage.qml
+singleton NavigationPageModel 1.0 NavigationPageModel.qml
+CoursesPage 1.0 CoursesPage.qml
+CoursesMap 1.0 CoursesMap.qml
+CoursesElevation 1.0 CoursesElevation.qml
+CoursesSummary 1.0 CoursesSummary.qml
+singleton CoursesModel 1.0 CoursesModel.qml
+GPXParser 1.0 GPXParser.qml
+MapButton 1.0 MapButton.qml
+MapView 1.0 MapView.qml
+CourseView 1.0 courseView.qml
+

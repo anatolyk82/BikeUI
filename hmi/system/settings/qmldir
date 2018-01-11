@@ -1,0 +1,6 @@
+singleton SettingsModel 1.0 SettingsModel.qml
+SettingsView 1.0 SettingsView.qml
+SystemSettingsView 1.0 SystemSettingsView.qml
+GPSSettingsView 1.0 GPSSettingsView.qml
+ConnectionSettingsView 1.0 ConnectionSettingsView.qml
+
